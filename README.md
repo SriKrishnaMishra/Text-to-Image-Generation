@@ -1,7 +1,6 @@
-# Text-to-Image-Generation
-using diffusers model i can change the text convert into image 
 
-# 🧠 Text-to-Image Generator with Hugging Face Diffusers
+
+#Text-to-Image Generator with Hugging Face Diffusers
 
 This project uses the Hugging Face `diffusers` library to convert natural language **text prompts into images** using a pre-trained **Stable Diffusion** model.
 
