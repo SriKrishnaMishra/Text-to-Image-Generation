@@ -1,4 +1,4 @@
-
+this is my google-colab link -  https://colab.research.google.com/drive/19-NsdoZiIo0PsxZG5Nb965MADPRAMDgS?usp=sharing
 
 #Text-to-Image Generator with Hugging Face Diffusers
 
